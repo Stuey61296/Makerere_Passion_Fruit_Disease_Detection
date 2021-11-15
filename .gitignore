@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore all photos
+/Test_Images*
+/Train_Images*
+
+.idea
